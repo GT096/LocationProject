@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#3A3C3D</color>
+    <color name="start_tracking_color_bef">#B5D9A4</color>
+    <color name="stop_tracking_color_bef">#DB6868</color>
+    <color name="start_tracking_color_aft">#BBC0B8</color>
+    <color name="stop_tracking_color_aft">#C79B9B</color>
+    <color name="reports_color">#FDE48C</color>
+    <color name="qr_button_color">#3AB6C7</color>
+    <color name="map_button">#E0DFD9</color>
+    <color name="transparent">#00E0DFD9</color>
+    <color name="ticket">#676B6D</color>
+    <color name="blue_calendar">#41D3BD</color>
+    <color name="material_yellow">#FFEB3B</color>
+</resources>
